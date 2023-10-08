@@ -1,1 +1,2 @@
 We have started the project
+We have also done the setup
